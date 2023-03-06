@@ -1,1 +1,8 @@
-linux
+uname -s Linux
+uname -r 5.3.0-22-generic
+uname -v #24+system76~1573659475~19.04~26b2022-Ubuntu SMP Wed Nov 13 20:0
+uname -n linuxhandbook
+uname -m x86_64
+uname -p x86_64
+uname -i x86_64
+uname -o GNU/Linux
